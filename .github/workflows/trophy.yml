@@ -28,6 +28,14 @@ jobs:
           path: dist/trophy.svg
           token: ${{ secrets.PAT }}
 
+      - name: generate streak.svg
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+          THEME: dark
+          OUTPUT_PATH: dist/streak.svg
+
       - name: push trophy.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
