@@ -1,5 +1,5 @@
 <h1 data-importer="text" align="center">Hi I'm KARTIK CHAWLA</h1>
-<h3 align="center">I'm a B.Tech student in Chemical Science and Technology at IIT Patna. I love to work with backend development, AI integrations, and building cool stuff.</h3>
+<h3 align="center">I am a B.Tech student in Chemical Science and Technology at IIT Patna (2025-Present) with a strong passion for software engineering. My projects have been pivotal in designing and constructing dynamic scripting languages, implementing AI-native desktop IDEs, and engaging in backend development.</h3>
 ###
 
 <div data-importer="techs" align="center">
@@ -38,8 +38,6 @@
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="60" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
