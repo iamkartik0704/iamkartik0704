@@ -25,6 +25,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
