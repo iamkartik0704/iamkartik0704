@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hi I'm KARTIK CHAWLA</h1>
+<h1 data-importer="text" align="center">Et voilà! I'm KARTIK CHAWLA</h1>
 <h3 align="center">I am a B.Tech student in Chemical Science and Technology at IIT Patna (2025-Present) with a strong passion for software engineering. My projects have been pivotal in designing and constructing dynamic scripting languages, implementing AI-native desktop IDEs, and engaging in backend development.</h3>
 ###
 
