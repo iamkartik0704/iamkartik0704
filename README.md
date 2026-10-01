@@ -1,5 +1,5 @@
 <h1 data-importer="text" align="center">Et voilà! I'm KARTIK CHAWLA</h1>
-<h3 align="center">I'm an undergraduate student at IIT Patna merging a background in Chemical Science with a strong focus on software engineering. I specialize in building complex systems—from AI-native desktop IDEs and custom scripting languages to scalable MERN-stack backends. Whether I'm developing official web portals for campus organizations or competing in algorithmic programming contests, I enjoy tackling challenging engineering problems from the ground up. </h3>
+<h3 align="center">I am an undergraduate student at IIT Patna with a strong focus on software engineering. I specialize in building complex systems, ranging from AI-native desktop IDEs and custom scripting languages to scalable MERN-stack backends. Whether developing official web portals for campus organizations or competing in algorithmic programming contests, I enjoy tackling challenging engineering problems from the ground up. </h3>
 
 
 <div data-importer="techs" align="center">
