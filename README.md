@@ -74,8 +74,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/iamkartik0704/iamkartik0704/trophy-output/streak.svg" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/iamkartik0704/iamkartik0704/trophy-output/trophy.svg?theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/iamkartik0704/iamkartik0704/trophy-output/streak.svg?v=2" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/iamkartik0704/iamkartik0704/trophy-output/trophy.svg?v=2" height="150" alt="trophy graph"  />
 </div>
 
 ###
